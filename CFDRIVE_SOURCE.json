@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/direnv/direnv",
+  "commit": "12192e206049ff0674292247a74f07950f13c9ac",
+  "license": "MIT",
+  "snapshot": "bounded source subset; workflows excluded",
+  "purpose": "Independent encrypted storage; not an upstream release or endorsement"
+}
